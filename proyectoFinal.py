@@ -1,3 +1,6 @@
+# Programa para poder editar documentos de textos sin importar la extension.
+# Fecha: 05/11/2021
+# Autor: Erick Bran
 from tkinter import *
 from tkinter import filedialog
 from tkinter.ttk import *
